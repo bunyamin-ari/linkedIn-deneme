@@ -1,3 +1,50 @@
+
+header {
+    display: flex;
+    flex-direction: row;
+gap:100px;
+height: 20%;
+
+justify-content: space-between;
+}
+
+
+
+
+
+
+
+.search {
+width: 20%;
+
+
+}
+
+.nav i {
+font-size:50px;
+
+}
+
+.nav {
+    display: flex;
+    width:50%;
+gap:80px;
+}
+
+.add {
+    display: flex;
+    flex-direction: row;
+width:30% ;
+}
+
+.kup {
+width:70px;
+
+}
+
+
+
+
 .relative {
 position: relative;
 width:300px
@@ -20,7 +67,7 @@ margin-top: 5px;
 .search-icon {
 position:absolute;
 left:10px;
-top:33%;
+top:13%;
 transform: translate(-50%);
 font-size: 18px;
 margin-left: 16px;
