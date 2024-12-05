@@ -1,0 +1,51 @@
+.relative {
+position: relative;
+width:300px
+
+
+}
+
+.arama {
+    width:100%;
+    padding:10px 40px 10px 20px;
+    font-size: 16px;
+    border:1px solid;
+    outline:none;
+margin-left: 10px;
+background-color: rgb(226, 239, 247);
+margin-top: 5px;
+}
+
+
+.search-icon {
+position:absolute;
+left:10px;
+top:33%;
+transform: translate(-50%);
+font-size: 18px;
+margin-left: 16px;
+
+}
+
+input::placeholder {
+   padding-left: 20px; 
+}
+
+.fa-linkedin {
+    color:rgb(35, 13, 160);
+font-size: 50px;
+}
+
+.search {
+    display: flex;
+    flex-direction: row;
+}
+
+#network {
+
+width:30px;
+}
+
+#evrak {
+    width:30px;
+}
