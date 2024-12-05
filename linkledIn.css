@@ -1,3 +1,47 @@
+.right-side {
+width:30%;
+
+
+
+}
+
+
+.main-container {
+
+display: flex;
+flex-direction: row;
+
+}
+
+
+
+
+#bgimg {
+width:100px;
+
+
+}
+
+#profilimg {
+    width:50px;
+border-radius: 50%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 header {
     display: flex;
